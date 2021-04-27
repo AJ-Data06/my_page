@@ -1,0 +1,70 @@
+a.lat_blue {
+    background-color: rgb(23, 162, 184);
+    font-size: 30px;
+    
+    }
+
+.container-fluid a{
+    text-size-adjust: 40px;
+}
+
+
+
+
+
+#nav_color{
+    background-color: rgb(255, 255, 255);
+}
+
+.nav-color{
+    background-color: white;
+}
+
+.p1{
+    margin-left: 1000px;
+}
+
+.heading-color{
+    color:rgb(23, 162, 184);
+}
+
+.position-windspeed{
+    position:absolute;
+    right: 5px;
+}
+
+.position-max_temp{
+    position:absolute;
+    right: 5px; 
+}
+
+.p1-color{
+    color: rgb(129, 137, 138);
+}
+
+.container{
+    position: relative;
+
+}
+
+.img-position{
+    position: aboslute;
+    left: 5px;
+}
+
+.box {
+    height: 400px;
+    
+    color: rgb(23, 162, 184);
+    background: rgb(255, 255, 255);
+  }
+
+  .w-position{
+      position: absolute;
+      right: 5px;
+  }
+
+  .max-position{
+      position: absolute;
+      right: 5px;
+  }
