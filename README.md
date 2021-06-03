@@ -1,3 +1,5 @@
+Please use this link to view the PAGE: https://aj-data06.github.io/my_page/index.html
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
